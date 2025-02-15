@@ -1260,10 +1260,10 @@
     semver "^7.6.3"
     ts-json-schema-generator "^1.5.1"
 
-"@oclif/plugin-help@^6.2.10", "@oclif/plugin-help@^6.2.8":
-  version "6.2.10"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-help/-/plugin-help-6.2.10.tgz#d6e8140efa89ae624ae9f25b7fdb8d112c62715f"
-  integrity sha512-Gm5/l/upTtj34StLIjZzhmO3AngqGx20rsbfOqDQ3SrsEnjfujtKgUm+MxXTjl4XfkkWREUN0CwuqLcuftnsOw==
+"@oclif/plugin-help@^6.2.25", "@oclif/plugin-help@^6.2.8":
+  version "6.2.25"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-help/-/plugin-help-6.2.25.tgz#9c3c5f9ec84b933d42fb13f7155e786684bbdc0e"
+  integrity sha512-1WPSzSvlYaIFlGGKbefldpx49uTAtsOFuHTbjeBuzSR/MLmooQGHzluvwm2W5/vyoi4AGG+PdiDJFH/b+h+BGA==
   dependencies:
     "@oclif/core" "^4"
 
